@@ -1,2 +1,2 @@
-# 4-day-Quote-Genera
-Day 4/30 of 30 days JavaScritp Challenge
+# 4-day-Quote-Genrater
+Day 4/30 of 30 days JavaScritp Challenge...
